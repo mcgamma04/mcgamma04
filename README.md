@@ -1,4 +1,4 @@
-Hi 👋 My name is Micheal Adebayo
+Hi 👋 My name is  Adebayo Michael
 ================================
 
 Software Engineer
