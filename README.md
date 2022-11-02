@@ -4,7 +4,7 @@ Hi 👋 My name is  Adebayo Michael
 Software Engineer
 -----------------
 
-I am a hands-on, highly competent software engineer with more than 6 years of experience. A specialist in JAVASCRIPT, PYTHON, JAVA, and PHP
+I am a hands-on, highly competent software engineer with more than 6 years of experience. A specialist in JAVASCRIPT, JAVA, and PHP
 
 * ✉️  You can contact me at [mcgamma04@gmail.com](mailto:mcgamma04@gmail.com)
 * 🤝  I'm open to collaborating on Java, JavaScript and PHP
